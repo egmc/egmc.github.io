@@ -9,6 +9,18 @@
  - twitter: [egmc](https://twitter.com/egmc)
  - github: [egmc](https://github.com/egmc)
 
+## monitoring tools
+
+### exporter
+
+- [Sysload Exporter](https://github.com/egmc/sysload_exporter)
+
+### grafana dashboards
+
+- [process exporter dashboard with treemap](https://grafana.com/grafana/dashboards/13882)
+- [sysload dashboard](https://grafana.com/grafana/dashboards/15014)
+
+
 ## talk
 
  - [Practices for Making Alerts Actionable / SRE NEXT](https://sre-next.dev/schedule#d3)
