@@ -11,9 +11,10 @@
 
 ## monitoring tools
 
-### exporter
+### exporters
 
 - [Sysload Exporter](https://github.com/egmc/sysload_exporter)
+- [Systemd Resolved Exporter](https://github.com/egmc/systemd_resolved_exporter)
 
 ### grafana dashboards
 
