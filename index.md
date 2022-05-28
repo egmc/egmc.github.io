@@ -22,9 +22,10 @@
 - [sysload dashboard](https://grafana.com/grafana/dashboards/15014)
 
 
-## talk
+## talks
 
- - [Practices for Making Alerts Actionable / SRE NEXT](https://sre-next.dev/schedule#d3)
+- [Practices for Making Alerts Actionable / SRE NEXT 2020](https://sre-next.dev/2020/schedule/#d3)
+- [プロダクション環境の信頼性を損ねず観測する技術 / SRE NEXT 2022](https://sre-next.dev/2022/schedule/#jp32)
 
 ## services / apps
 
