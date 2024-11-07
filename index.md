@@ -8,6 +8,7 @@
 
  - twitter: [egmc](https://twitter.com/egmc)
  - github: [egmc](https://github.com/egmc)
+ - LinkedIn: https://www.linkedin.com/in/sohei-iwahori-704418b0/
 
 ## monitoring tools
 
