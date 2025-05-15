@@ -1,5 +1,7 @@
 # egmc.me
 
+<img src="images/dasauso.png" width="300" title="profile image" alt="profile image">
+
 ## blog
 
  - https://dasalog.hatenablog.jp/
