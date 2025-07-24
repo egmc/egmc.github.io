@@ -32,7 +32,14 @@
 - [Runbookに何を書き、どのようにアラートを振り分けるか？ / SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp066)
 - [Building Dashboards as a Hobby / Grafana Meetup Japan #1](https://grafana-meetup-japan.connpass.com/event/314500/)
 - [PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)
+- [SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)
 
+## community activities
+
+- SRE NEXT 2024 Core Staff
+- SRE NEXT 2025 Core Staff / Co-Chair
+- eBPF Japan Meetup Organizer
+  
 ## services / apps
 
 no longer available
