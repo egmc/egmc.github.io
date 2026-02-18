@@ -34,6 +34,11 @@
 - [PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)
 - [SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)
 
+## workshop
+
+ - [eBPFと周辺技術を利用してPHPアプリケーションコードを変更しない可視化をやってみる](https://fortee.jp/sessionless-conference-2024/proposal/0876d06f-a80f-405b-a89a-84ee7c1458ec) [https://github.com/egmc/php-sessionless-conference-ebpf-workshop](https://github.com/egmc/php-sessionless-conference-ebpf-workshop)
+   
+
 ## community activities
 
 - SRE NEXT 2024 Core Staff
