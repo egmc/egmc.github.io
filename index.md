@@ -44,7 +44,10 @@
 
  - [eBPFと周辺技術を利用してPHPアプリケーションコードを変更しない可視化をやってみる](https://fortee.jp/sessionless-conference-2024/proposal/0876d06f-a80f-405b-a89a-84ee7c1458ec)
    - [repo](https://github.com/egmc/php-sessionless-conference-ebpf-workshop)
-   
+  
+## magazine
+
+- [寄稿：技術選定の舞台裏 / Software Design 2026年4月号](https://gihyo.jp/magazine/SD/archive/2026/202604)
 
 ## community activities
 
