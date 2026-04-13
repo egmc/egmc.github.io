@@ -27,12 +27,14 @@
 
 ## talks
 
-- [Practices for Making Alerts Actionable / SRE NEXT 2020](https://sre-next.dev/2020/schedule/#d3)
-- [プロダクション環境の信頼性を損ねず観測する技術 / SRE NEXT 2022](https://sre-next.dev/2022/schedule/#jp32)
-- [Runbookに何を書き、どのようにアラートを振り分けるか？ / SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp066)
-- [Building Dashboards as a Hobby / Grafana Meetup Japan #1](https://grafana-meetup-japan.connpass.com/event/314500/)
-- [PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)
+- [本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ / PHPカンファレンス小田原2026](https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika)
 - [SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)
+- [PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)
+- [Building Dashboards as a Hobby / Grafana Meetup Japan #1](https://grafana-meetup-japan.connpass.com/event/314500/)
+- [Runbookに何を書き、どのようにアラートを振り分けるか？ / SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp066)
+- [プロダクション環境の信頼性を損ねず観測する技術 / SRE NEXT 2022](https://sre-next.dev/2022/schedule/#jp32)
+- [Practices for Making Alerts Actionable / SRE NEXT 2020](https://sre-next.dev/2020/schedule/#d3)
+
 
 ## workshop
 
@@ -42,9 +44,9 @@
 
 ## community activities
 
-- SRE NEXT 2024 Core Staff
-- SRE NEXT 2025 Core Staff / Co-Chair
 - eBPF Japan Meetup Organizer
+- SRE NEXT 2025 Core Staff / Co-Chair
+- SRE NEXT 2024 Core Staff
   
 ## services / apps
 
