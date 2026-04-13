@@ -24,6 +24,10 @@
 - [process exporter dashboard with treemap](https://grafana.com/grafana/dashboards/13882)
 - [sysload dashboard](https://grafana.com/grafana/dashboards/15014)
 
+### PHP specific tools
+
+- [PHP Dead Code Reporter](https://github.com/egmc/php-dcr)
+
 
 ## talks
 
