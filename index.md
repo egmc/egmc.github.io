@@ -31,14 +31,14 @@
 
 ## talks
 
-- [eBPF Can Do It! A 5-Minute Tour of 5 Real-World PHP Issues Solved with eBPF / Laravel Live Japan 2026](https://laravellive.jp/) [📄](https://speakerdeck.com/egmc/ebpf-can-do-it-a-5-minute-tour-of-5-real-world-php-issues-solved-with-ebpf)  [🎞️](https://www.youtube.com/live/TR25AkhjiRc?t=22880&si=Hrv5caPX1FNzcv3g)
-- [本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ / PHPカンファレンス小田原2026](https://phpcon-odawara.jp/ja/2026/)  [📄](https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika)
-- [SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)  [📄](https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido)  [🎞️](https://www.youtube.com/watch?v=2fAv6DQQOKk)
-- [PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)  [📄](https://speakerdeck.com/egmc/phpapurikesiyonniokeruebpfnoshi-isuo)
-- [Building Dashboards as a Hobby / Grafana Meetup Japan #1](https://grafana-meetup-japan.connpass.com/event/314500/) [📄](https://speakerdeck.com/egmc/building-dashboards-as-a-hobby)
-- [Runbookに何を書き、どのようにアラートを振り分けるか？ / SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp066)  [📄](https://speakerdeck.com/egmc/runbooknihe-woshu-ki-donoyouniaratowozhen-rifen-keruka)  [🎞️](https://www.youtube.com/watch?v=zn1LNnFSxq8)
-- [プロダクション環境の信頼性を損ねず観測する技術 / SRE NEXT 2022](https://sre-next.dev/2022/schedule/#jp32)  [📄](https://speakerdeck.com/egmc/purotakusiyonhuan-jing-falsexin-lai-xing-wosun-nesuguan-ce-suruji-shu)  [🎞️](https://www.youtube.com/watch?v=9SuLhybYfGw)
-- [Practices for Making Alerts Actionable / SRE NEXT 2020](https://sre-next.dev/2020/schedule/#d3) [📄](https://speakerdeck.com/egmc/practices-for-making-alerts-actionable)  [🎞️](https://www.youtube.com/watch?v=nsSo91Nm2Pc)
+- [en][eBPF Can Do It! A 5-Minute Tour of 5 Real-World PHP Issues Solved with eBPF / Laravel Live Japan 2026](https://laravellive.jp/) [📄](https://speakerdeck.com/egmc/ebpf-can-do-it-a-5-minute-tour-of-5-real-world-php-issues-solved-with-ebpf)  [🎞️](https://www.youtube.com/live/TR25AkhjiRc?t=22880&si=Hrv5caPX1FNzcv3g)
+- [ja][本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ / PHPカンファレンス小田原2026](https://phpcon-odawara.jp/ja/2026/)  [📄](https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika)
+- [ja][SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)  [📄](https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido)  [🎞️](https://www.youtube.com/watch?v=2fAv6DQQOKk)
+- [ja][PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)  [📄](https://speakerdeck.com/egmc/phpapurikesiyonniokeruebpfnoshi-isuo)
+- [ja][Building Dashboards as a Hobby / Grafana Meetup Japan #1](https://grafana-meetup-japan.connpass.com/event/314500/) [📄](https://speakerdeck.com/egmc/building-dashboards-as-a-hobby)
+- [ja][Runbookに何を書き、どのようにアラートを振り分けるか？ / SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp066)  [📄](https://speakerdeck.com/egmc/runbooknihe-woshu-ki-donoyouniaratowozhen-rifen-keruka)  [🎞️](https://www.youtube.com/watch?v=zn1LNnFSxq8)
+- [ja][プロダクション環境の信頼性を損ねず観測する技術 / SRE NEXT 2022](https://sre-next.dev/2022/schedule/#jp32)  [📄](https://speakerdeck.com/egmc/purotakusiyonhuan-jing-falsexin-lai-xing-wosun-nesuguan-ce-suruji-shu)  [🎞️](https://www.youtube.com/watch?v=9SuLhybYfGw)
+- [ja][Practices for Making Alerts Actionable / SRE NEXT 2020](https://sre-next.dev/2020/schedule/#d3) [📄](https://speakerdeck.com/egmc/practices-for-making-alerts-actionable)  [🎞️](https://www.youtube.com/watch?v=nsSo91Nm2Pc)
 
 
 ## workshop
