@@ -31,8 +31,9 @@
 
 ## talks
 
-- [本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ / PHPカンファレンス小田原2026](https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika)
-- [SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)
+- [eBPF Can Do It! A 5-Minute Tour of 5 Real-World PHP Issues Solved with eBPF / Laravel Live Japan 2026](https://laravellive.jp/) [📄](https://speakerdeck.com/egmc/ebpf-can-do-it-a-5-minute-tour-of-5-real-world-php-issues-solved-with-ebpf)  [🎞️](https://www.youtube.com/live/TR25AkhjiRc?t=22880&si=Hrv5caPX1FNzcv3g)
+- [本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ / PHPカンファレンス小田原2026](https://phpcon-odawara.jp/ja/2026/)  [📄](https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika)
+- [SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)  [📄](https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido)  [🎞️](https://www.youtube.com/watch?v=2fAv6DQQOKk)
 - [PHPアプリケーションにおけるeBPFの使い所 / eBPF Japan Meetup #1](https://ebpf.connpass.com/event/323368/)
 - [Building Dashboards as a Hobby / Grafana Meetup Japan #1](https://grafana-meetup-japan.connpass.com/event/314500/)
 - [Runbookに何を書き、どのようにアラートを振り分けるか？ / SRE NEXT 2023](https://sre-next.dev/2023/schedule/#jp066)
@@ -44,7 +45,7 @@
 
  - [eBPFと周辺技術を利用してPHPアプリケーションコードを変更しない可視化をやってみる](https://fortee.jp/sessionless-conference-2024/proposal/0876d06f-a80f-405b-a89a-84ee7c1458ec)
    - [repo](https://github.com/egmc/php-sessionless-conference-ebpf-workshop)
-  
+
 ## magazine
 
 - [寄稿：技術選定の舞台裏 / Software Design 2026年4月号](https://gihyo.jp/magazine/SD/archive/2026/202604)
@@ -54,7 +55,7 @@
 - eBPF Japan Meetup Organizer
 - SRE NEXT 2025 Core Staff / Co-Chair
 - SRE NEXT 2024 Core Staff
-  
+
 ## services / apps
 
 no longer available
