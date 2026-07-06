@@ -9,6 +9,7 @@
 ## social accounts
 
  - X(twitter): [egmc](https://x.com/egmc)
+ - Bluesky [egmc.bsky.social](https://bsky.app/profile/egmc.bsky.social)
  - github: [egmc](https://github.com/egmc)
  - LinkedIn: https://www.linkedin.com/in/sohei-iwahori-704418b0/
 
