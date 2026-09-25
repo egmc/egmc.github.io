@@ -32,6 +32,7 @@
 
 ## talks
 
+- [en][eBPF Can Do It! A Deep Dive into Real-World PHP Issues Solved with eBPF / PHP×Tokyo September 2026](https://phpxtky.connpass.com/event/401052/) [📄]eBPF Can Do It! A Deep Dive into Real-World PHP Issues Solved with eBPF)
 - [en][eBPF Can Do It! A 5-Minute Tour of 5 Real-World PHP Issues Solved with eBPF / Laravel Live Japan 2026](https://laravellive.jp/) [📄](https://speakerdeck.com/egmc/ebpf-can-do-it-a-5-minute-tour-of-5-real-world-php-issues-solved-with-ebpf)  [🎞️](https://www.youtube.com/live/TR25AkhjiRc?t=22880&si=Hrv5caPX1FNzcv3g)
 - [ja][本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ / PHPカンファレンス小田原2026](https://phpcon-odawara.jp/ja/2026/)  [📄](https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika)  [🎞️](https://youtu.be/HbLaF8sy6h0?si=OvIIsxjGyG6EKE0n)
 - [ja][SREのためのeBPF活用ステップアップガイド / SRE NEXT 2025](https://sre-next.dev/2025/schedule/#slot072)  [📄](https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido)  [🎞️](https://www.youtube.com/watch?v=2fAv6DQQOKk)
